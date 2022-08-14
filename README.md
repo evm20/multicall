@@ -28,6 +28,7 @@ This smart contract is intended to be used with
 Multicall2 is the same as Multicall, but provides addition functions that allow calls within the batch to fail. Useful for situations where a call may fail depending on the state of the contract.
 
 | Chain   | Address |
+| ------- | ------- |
 | Luks Testnet | 0x8D9938E8169F98Dd376DdFCA7aA1894cf0447543 | (https://explorer.execution.l16.lukso.network/address/0x8D9938E8169F98Dd376DdFCA7aA1894cf0447543/) |
 | Mainnet | [0x5ba1e12693dc8f9c48aad8770482f4739beed696](https://etherscan.io/address/0x5ba1e12693dc8f9c48aad8770482f4739beed696#contracts) |
 | Kovan   | [0x5ba1e12693dc8f9c48aad8770482f4739beed696](https://kovan.etherscan.io/address/0x5ba1e12693dc8f9c48aad8770482f4739beed696#contracts) |
