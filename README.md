@@ -29,7 +29,7 @@ Multicall2 is the same as Multicall, but provides addition functions that allow 
 
 | Chain   | Address |
 | ------- | ------- |
-| Luks Testnet | 0x8D9938E8169F98Dd376DdFCA7aA1894cf0447543 | (https://explorer.execution.l16.lukso.network/address/0x8D9938E8169F98Dd376DdFCA7aA1894cf0447543/) |
+| Lukso Testnet | 0x8D9938E8169F98Dd376DdFCA7aA1894cf0447543 | (https://explorer.execution.l16.lukso.network/address/0x8D9938E8169F98Dd376DdFCA7aA1894cf0447543/) |
 | Mainnet | [0x5ba1e12693dc8f9c48aad8770482f4739beed696](https://etherscan.io/address/0x5ba1e12693dc8f9c48aad8770482f4739beed696#contracts) |
 | Kovan   | [0x5ba1e12693dc8f9c48aad8770482f4739beed696](https://kovan.etherscan.io/address/0x5ba1e12693dc8f9c48aad8770482f4739beed696#contracts) |
 | Rinkeby | [0x5ba1e12693dc8f9c48aad8770482f4739beed696](https://rinkeby.etherscan.io/address/0x5ba1e12693dc8f9c48aad8770482f4739beed696#contracts) |
